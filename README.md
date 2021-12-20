@@ -1,4 +1,4 @@
-# featherbot
+# Featherbot -- A Robot Walker Powered By ESP32-S2 Microcontroller
 Code to drive an ESP32-S2 based robot.
 
 
